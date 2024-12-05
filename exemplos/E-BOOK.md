@@ -1,7 +1,7 @@
 # A Jornada da IA: Como a utilização das IAs Generativa afetarão o mercado de trabalho
 
 ## 📒 Descrição
-Este e-book de 3 páginas explora o impacto revolucionário das IAs Generativas e como sua utilização afetará o mercado de trabalho.
+Este e-book de 3 páginas explora o impacto revolucionário das IAs Generativas e como sua utilização afetará o mercado e as relações de trabalho.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
@@ -9,10 +9,10 @@ Este e-book de 3 páginas explora o impacto revolucionário das IAs Generativas 
 - Ferramenta **Libre Office** para edição.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Utilizei o "ChatGPT" para fazer minha pesquisa sobre IAs Generativas e os impactos no mercado e nas relações de trabalho com o uso dessas tecnologias, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+O e-book apresenta um conteúdo disruptivo, demonstrando como o uso as IAs Genativas irão afetar o mercado e as relações de trabalho.
 
 [LINK PARA O E-BOOK AQUI]()
 
